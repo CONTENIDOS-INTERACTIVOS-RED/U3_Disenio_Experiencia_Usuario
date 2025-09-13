@@ -38,7 +38,7 @@
             h2.mb-4(data-aos="flip-up") Herramientas de evaluación de accesibilidad (Axe, WAVE)
             p.mb-4(data-aos="fade-right") En el PDF Herramientas de evaluación de accesibilidad, se exploran soluciones como Axe y WAVE que permiten identificar de manera eficiente barreras técnicas que afectan la inclusión digital. Este documento ofrece un enfoque práctico para integrar estas herramientas en los flujos de trabajo de desarrollo, destacando sus capacidades, limitaciones y el valor de combinarlas con revisiones manuales y pruebas con usuarios reales.
 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_7.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_8.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -178,7 +178,7 @@
             h2.mb-4(data-aos="flip-up") Evaluación automática y manual de la accesibilidad
             p.mb-4(data-aos="fade-right") En el PDF Evaluación automática y manual de la accesibilidad, se describe cómo ambos enfoques abordan distintos aspectos de la experiencia de usuario, desde errores técnicos detectables automáticamente hasta barreras más complejas que requieren interpretación humana. A través de ejemplos y pasos detallados, se proporciona un protocolo práctico para implementar una estrategia de evaluación de doble pista que optimice la inclusión digital en productos de software.
 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_8.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_9.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -304,7 +304,7 @@
             h2.mb-4(data-aos="flip-up") Corrección de problemas de accesibilidad en interfaces
             p.mb-4(data-aos="fade-right") En el PDF Corrección de problemas de accesibilidad en interfaces, se expone un enfoque integral que orienta el proceso de diagnóstico, priorización y solución de problemas de accesibilidad, destacando la importancia de atacar tanto los errores técnicos visibles como sus causas estructurales. A través de recomendaciones prácticas y un ejercicio aplicado, se invita a diseñar planes de acción que incorporen soluciones reutilizables, validación con usuarios reales y mejoras continuas en los procesos de desarrollo.
 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_9.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_10.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

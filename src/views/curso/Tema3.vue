@@ -154,7 +154,7 @@
             h3.mb-4(data-aos="flip-up") Buenas prácticas para crear interfaces inclusivas
             p.mb-4(data-aos="fade-right") En el PDF Buenas prácticas para crear interfaces inclusivas, se presentan estrategias concretas para incorporar la accesibilidad de forma transversal en cada fase del proceso de diseño y desarrollo. Este documento ofrece un marco estructurado que promueve la participación activa de usuarios con discapacidades, la personalización de la experiencia, y la mejora progresiva como pilares para construir soluciones tecnológicas equitativas, funcionales y sostenibles.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -218,7 +218,7 @@
             h2.mb-4(data-aos="flip-up") Desarrollo de interfaces amigables y fáciles de usar para todos
             p.mb-4(data-aos="fade-right") En el PDF Desarrollo de interfaces amigables y fáciles de usar para todos, se abordan estrategias de diseño que permiten combinar simplicidad, adaptabilidad y funcionalidad para responder a distintos niveles de experiencia, capacidades y preferencias de interacción. Este documento ofrece un enfoque práctico para lograr experiencias digitales inclusivas, donde la facilidad de uso se convierte en un objetivo alcanzable mediante decisiones de diseño bien fundamentadas y centradas en la diversidad de los usuarios.
 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_7.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
